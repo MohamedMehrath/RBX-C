@@ -8,3 +8,6 @@ Script Xero Hub:
 getgenv().Team = "Marines" -- Pirates/Marines
 loadstring(game:HttpGet("https://raw.githubusercontent.com/verudous/Xero-Hub/main/main.lua"))()
 
+MFPitchDev
+
+OmarMehrath
