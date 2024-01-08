@@ -21,3 +21,5 @@ a920b01849d49b1ada1534edc04e890f
 loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
 
 https://deltaexploits.net/delta-executor-mobile
+
+KEY_7109e390f18dec190988
