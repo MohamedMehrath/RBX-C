@@ -19,3 +19,4 @@ https://www.shorturl.at/
 a920b01849d49b1ada1534edc04e890f
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
+https://deltaexploits.net/delta-executor-mobile
