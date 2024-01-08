@@ -23,3 +23,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/ma
 https://deltaexploits.net/delta-executor-mobile
 
 KEY_7109e390f18dec190988
+
+https://www.mediafire.com/file/lvvnpqxi0yds4iq/codex_605_performance.apk/file
