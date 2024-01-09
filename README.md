@@ -1,6 +1,7 @@
 # RBX-C
 Fluxus  V64: https://www.mediafire.com/file/8byk2fv1dmck893/Fluxus_V64_Ch%25C3%25ADnh_Th%25E1%25BB%25A9c.apk/file
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()
 
 Script Xero Hub:
 
