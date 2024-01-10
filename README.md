@@ -1,15 +1,19 @@
 # Main
-
+```
 https://www.mediafire.com/file/g8al82866g3526h/%5BPUNK+TEAM%5D+Fluxus+keyless+%5B32bit%5D.apk
-
+```
+```
 https://www.roblox.com/share-links?code=9a8f8024495d184f8756438b1bbcd729&type=Server&pid=share&is_retargeting=true
-
+```
+```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
-
+```
+```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Domadicoof/Domadicoof/main/Domadichub/NottoGay/Start.ranscript"))()
-
+```
+```
 game:GetService("RunService"):Set3dRenderingEnabled(false)
-
+```
 
 # RBX-C
 1b3df16e5a26bc805af1e47689d1a15896960e9c700e430203b1214643d705ee
