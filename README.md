@@ -23,6 +23,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Domadicoof/Domadicoof
 ```
 game:GetService("RunService"):Set3dRenderingEnabled(false)
 ```
+StrawHat_Mohamed
 ’خ7شةثي*123
 
 # RBX-C
