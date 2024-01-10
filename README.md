@@ -6,10 +6,6 @@ https://www.roblox.com/share-links?code=9a8f8024495d184f8756438b1bbcd729&type=Se
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
 
-loadstring(game:HttpGet"https://raw.githubusercontent.com/ScadeBlock/M3Q/main/Main/Version/Release/M3Q.lua")()
-
-https://pastebin.com/raw/VSjtWEDe
-
 game:GetService("RunService"):Set3dRenderingEnabled(false)
 
 
