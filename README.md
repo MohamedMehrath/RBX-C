@@ -6,7 +6,7 @@ https://www.roblox.com/share-links?code=9a8f8024495d184f8756438b1bbcd729&type=Se
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
 
-
+loadstring(game:HttpGet"https://raw.githubusercontent.com/ScadeBlock/M3Q/main/Main/Version/Release/M3Q.lua")()
 
 # RBX-C
 1b3df16e5a26bc805af1e47689d1a15896960e9c700e430203b1214643d705ee
