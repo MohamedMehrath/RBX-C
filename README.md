@@ -10,6 +10,9 @@ loadstring(game:HttpGet"https://raw.githubusercontent.com/ScadeBlock/M3Q/main/Ma
 
 https://pastebin.com/raw/VSjtWEDe
 
+game:GetService("RunService"):Set3dRenderingEnabled(false)
+
+
 # RBX-C
 1b3df16e5a26bc805af1e47689d1a15896960e9c700e430203b1214643d705ee
 
