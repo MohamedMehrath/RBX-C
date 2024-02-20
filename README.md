@@ -1,6 +1,6 @@
 ## Stage 1: Downloading
 
-[Download](https://fastupload.io/6sLwz2WMtSP0/Mjl1bzDpvnntwpE/b5OzddWZWzB8L/%5BPunk%20Team%5D%20Fluxus%20Lite%2032bit.apk)
+[Download](https://www.mediafire.com/file/8to8lbn39n8af6k/Original+Fluxus+2.610+32bit.apk/file)
 
 https://www.shorturl.at/
 
